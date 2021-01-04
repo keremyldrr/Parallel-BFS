@@ -1,0 +1,11 @@
+Iterations = 100
+
+coPapers -O0: mean = 0.136857
+wiki-topcats -O0: mean = 0.393746
+europe-osm -O0: mean = 6.08542
+rmat-er -O0: mean = 8.33418
+
+coPapers -O3: mean = 0.0601033
+wiki-topcats -O3: mean = 0.184453
+europe-osm -O3: mean = 1.63355
+rmat-er -O3: mean = 3.96893
